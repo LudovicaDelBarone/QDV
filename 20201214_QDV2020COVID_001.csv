@@ -1,4 +1,4 @@
-"NOME PROVINCIA (ISTAT)","CODICE NUTS 3 2021","CODICE PROVINCIA ISTAT (STORICO)","DENOMINAZIONE CORRENTE","VALORE","INDICATORE","UNITA' DI MISURA","FONTE"
+"NOME PROVINCIA (ISTAT)","VALORE","INDICATORE","UNITA' DI MISURA","FONTE"
 "Agrigento","ITG14","084","Agrigento",-0.06544,"Pil pro capite","Variazione stima 2020 rispetto al 2019 (In %)","Elaborazioni Il Sole 24 ORE su dati Prometeia"
 "Alessandria","ITC18","006","Alessandria",-0.06724,"Pil pro capite","Variazione stima 2020 rispetto al 2019 (In %)","Elaborazioni Il Sole 24 ORE su dati Prometeia"
 "Ancona","ITI32","042","Ancona",-0.07925,"Pil pro capite","Variazione stima 2020 rispetto al 2019 (In %)","Elaborazioni Il Sole 24 ORE su dati Prometeia"
